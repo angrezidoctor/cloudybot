@@ -1,0 +1,12 @@
+aiohttp
+psutil
+pytz
+openrouter
+openai
+boto3
+telebot
+nest_asyncio
+python-telegram-bot
+bs4
+requests
+bytez
