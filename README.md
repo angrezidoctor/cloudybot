@@ -1,2 +1,0 @@
-# cloudybot
-Voom
